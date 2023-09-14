@@ -1,0 +1,25 @@
+Booth
+Camel Six Hump
+Camel Three Hump
+Chung Reynolds
+Colville
+Cube
+Deckkers-Aarts
+El-Attar-Vidyasagar-Dutta
+Goldstien Price
+Himmelblau
+Hosaki
+Leon
+Powell Singular 2
+Price 3
+Price 4
+Quadratic
+Rosenbrock
+Rotated Ellipse
+Rotated Ellipse 2
+Schumer
+Schwefel
+Schwefel 236
+Sphere function
+Styblinski-Tang
+Trid
